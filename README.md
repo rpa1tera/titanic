@@ -13,7 +13,7 @@ Se você seguir as instruções abaixo após realizar um clone deste projeto, co
 ### Instalando o Anaconda 
 
 Basta realizar o download do pacote e executar sua simples instalação.
-Download: [Anaconda] (https://www.anaconda.com/download)
+Download: [Anaconda](https://www.anaconda.com/download)
 
 
 
