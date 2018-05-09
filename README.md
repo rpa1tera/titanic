@@ -10,10 +10,6 @@ Se você seguir as instruções abaixo após realizar um clone deste projeto, co
 
 É necessário que você tenha o Anaconda instalado em sua máquina.
 
-```
-Exemplos
-```
-
 ### Instalando o Anaconda 
 
 Basta realizar o download do pacote e executar sua simples instalação.
