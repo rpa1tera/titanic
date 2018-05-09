@@ -6,7 +6,7 @@ Este é um projeto de nível iniciante disponibilizado pelo [Kaggle](https://www
 
 Se você seguir as instruções abaixo após realizar um clone deste projeto, conseguirá executar na sua máquina local. 
 
-### Pre Requisitos
+### Pré-requisitos
 
 É necessário que você tenha o Anaconda instalado em sua máquina.
 
